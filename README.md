@@ -3,9 +3,19 @@
 
 </br>
 
-更新时间：2022-9-23
+更新时间：2022-9-25
 
-本图库源自于 微信小游戏：羊了个羊
+```diff
+下波更新预告：
+
++ 刺猬羊
++ 茶壶羊
++ 花花羊
++ 斯巴达羊
++ 带耳环羊
+```
+
+本图库源自于 `微信小游戏：羊了个羊`
 
 注意：本表情包为png和gif格式，gif不是动图，动图要逐帧做太费时间了
 
@@ -21,28 +31,30 @@
 
 算是比较全的了
 
-![](https://ghproxy.com/https://raw.githubusercontent.com/Yiov/sheep/main/exeample.png)
+![](https://ghproxy.com/https://raw.githubusercontent.com/Yiov/sheep/main/exeample-01.png)
+
+![](https://ghproxy.com/https://raw.githubusercontent.com/Yiov/sheep/main/exeample-02.png)
 
 </br>
 
 
-* 原始尺寸 200x200 —— 130张
+* 原始尺寸 200x200 —— 140张
 
-  * png格式 —— 65张
+  * png格式 —— 70张
   
-  * gif格式 —— 65张(微信专属)
+  * gif格式 —— 70张(微信专属)
 
-* 放大尺寸 400x400  —— 130张
+* 放大尺寸 400x400  —— 140张
 
-  * png格式 —— 65张
+  * png格式 —— 70张
   
-  * gif格式 —— 65张(微信专属)
+  * gif格式 —— 70张(微信专属)
 
 * title称号图 — 6张
 
 * wallpaper墙纸 — 7张
 
-* 原素材 — 12张
+* 原素材 — 14张
 
 * 背景音乐 — 2份
 

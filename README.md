@@ -3,16 +3,12 @@
 
 </br>
 
-更新时间：2022-9-30
+更新时间：2022-10-14
 
 ```diff
 下波更新预告：
 
-+ 摸鱼羊
-+ 夏羊
-+ 东羊
-+ 炸虾羊
-+ 恐龙羊
++ 未知
 ```
 
 本图库源自于 `微信小游戏：羊了个羊`
@@ -30,6 +26,9 @@
 于是用PS拼接，`收纳了所有表情包，包含下架的坤坤和悟空等`，以及过场动画
 
 算是比较全的了
+
+> MT文件管理器路径：内部存储/Android/date/com.tencent.mm/MicroMsg/搜索含子目录:cachelist.json/resources/
+
 
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Yiov/sheep/main/exeample-01.png)
 
